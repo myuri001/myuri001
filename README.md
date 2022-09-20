@@ -6,5 +6,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 ---
 [![codewars](https://www.codewars.com/users/myuri001/badges/large)](https://www.codewars.com/users/myuri001)   
-
-
+---
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://github.com/myurin001/leetcode-stats)
