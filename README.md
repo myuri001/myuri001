@@ -4,5 +4,5 @@
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-[![codewars]([https://www.codewars.com/users/username/badges/large](https://www.codewars.com/users/myuri001))]  
+[![codewars]([https://www.codewars.com/users/username/badges/large](https://www.codewars.com/users/myuri001))
 
