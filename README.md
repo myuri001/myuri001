@@ -7,4 +7,4 @@
 ---
 [![codewars](https://www.codewars.com/users/myuri001/badges/large)](https://www.codewars.com/users/myuri001)   
 ---
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://github.com/myurin001/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://leetcode.com/myurin001/)
