@@ -2,7 +2,7 @@
 
 ***Я Python-разработчик***
 
-[Linkedln](https://www.linkedin.com/feed/)
+Профиль на [Linkedln](https://www.linkedin.com/feed/)
 
 
 ### :fire: My Stats :
