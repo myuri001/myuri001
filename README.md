@@ -2,6 +2,7 @@
 
 ***Я Python-разработчик***
 
+[Linkedln](https://www.linkedin.com/feed/))
 
 
 ### :fire: My Stats :
@@ -15,4 +16,4 @@
 ---
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://leetcode.com/myurin001/)
 
-[![Linkedln](https://www.linkedin.com/feed/](https://www.linkedin.com/feed/))
+
