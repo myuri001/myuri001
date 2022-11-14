@@ -2,7 +2,9 @@
 
 ***Я Python-разработчик***
 
-Профиль на [Linkedln](https://www.linkedin.com/feed/)
+Профили:
+
+[Linkedln](www.linkedin.com/in/iurinmikhail)
 
 
 ### :fire: My Stats :
