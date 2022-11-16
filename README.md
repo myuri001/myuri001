@@ -10,12 +10,9 @@
     - [ ] [Sqlbolt.COM](https://sqlbolt.com/) 
     - [ ] [Интерактивный тренажер по SQL на Stepik](https://stepik.org/course/63054/syllabus)
     - [X] [learndb.ru](https://learndb.ru/courses)
-- [ ] Задача 2
-    - [X] Подзадача 1 для Задачи 2
-    - [ ] Подзадача 2 для Задачи 2
-- [ ] Задача 3
-    - [ ] Подзадача 1 для Задачи 3
-        - [ ] Подзадача 1 для Подзадача 1 для Задачи 3
+- [ ] Тестирование
+    - [ ] [Вселенная тестирования, или Как стать тестировщиком](https://stepik.org/course/118842/syllabus)
+    
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=myuri001&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -29,4 +26,4 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://leetcode.com/myurin001/)
 
 
-<progress value="70" max="100">70 %</progress>
+
