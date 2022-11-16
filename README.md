@@ -7,7 +7,7 @@
 
 План:
 - [ ] SQL
-    - [Sqlbolt.COM](https://sqlbolt.com/) -[X]-[X]-[X]-[X]-[X]-[X]-[X]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]
+    -[X]-[X]-[X]-[X]-[X]-[X]-[X]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ]-[ ] [Sqlbolt.COM](https://sqlbolt.com/) 
     - [ ] [Интерактивный тренажер по SQL на Stepik](https://stepik.org/course/63054/syllabus)
     - [X] [learndb.ru](https://learndb.ru/courses)
 - [ ] Задача 2
