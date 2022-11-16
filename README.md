@@ -2,10 +2,19 @@
 
 ***Я Python-разработчик***
 
-Профили:
-
+Связаться со мной:
 [Linkedln](www.linkedin.com/in/iurinmikhail)
 
+План:
+- [ ] SQL
+    - [X] [SQLBOLT.COM](https://sqlbolt.com/) <progress value="11" max="19">11 %</progress>
+    - [X] Подзадача 2 для Задачи 1
+- [ ] Задача 2
+    - [X] Подзадача 1 для Задачи 2
+    - [ ] Подзадача 2 для Задачи 2
+- [ ] Задача 3
+    - [ ] Подзадача 1 для Задачи 3
+        - [ ] Подзадача 1 для Подзадача 1 для Задачи 3
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=myuri001&theme=dark&background=000000)](https://git.io/streak-stats)
