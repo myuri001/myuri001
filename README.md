@@ -7,8 +7,9 @@
 
 План:
 - [ ] SQL
-    - [X] [SQLBOLT.COM](https://sqlbolt.com/) <progress value="11" max="19">11 %</progress>
-    - [X] Подзадача 2 для Задачи 1
+    - [ ] [Sqlbolt.COM](https://sqlbolt.com/)
+    - [ ] [Интерактивный тренажер по SQL на Stepik](https://stepik.org/course/63054/syllabus)
+    - [X] [learndb.ru](https://learndb.ru/courses)
 - [ ] Задача 2
     - [X] Подзадача 1 для Задачи 2
     - [ ] Подзадача 2 для Задачи 2
