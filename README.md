@@ -19,3 +19,5 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://leetcode.com/myurin001/)
 
 
+<label for="file">File progress:</label>
+<progress id="file" max="100" value="70"> 70% </progress>
