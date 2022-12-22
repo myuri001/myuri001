@@ -1,7 +1,5 @@
 ***Привет, меня зовут Михаил.***
 
-***Я Python-разработчик***
-
 Связаться со мной:
 [Linkedln](www.linkedin.com/in/iurinmikhail)
 
